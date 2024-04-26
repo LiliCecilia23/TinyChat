@@ -7,6 +7,7 @@ const Welcome = () => {
     const googleSignIn = () => {
         const provider = new GoogleAuthProvider();
         signInWithRedirect(auth, provider);
+        console.log(auth);
     };
 
   return (
