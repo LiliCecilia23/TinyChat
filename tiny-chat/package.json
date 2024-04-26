@@ -2,7 +2,7 @@
   "name": "tiny-chat",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lilicecilia23.github.io/TinyChat/tiny-chat",
+  "homepage": "https://lilicecilia23.github.io/TinyChat/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
