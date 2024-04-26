@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TinyChat/tiny-chat/static/css/main.aa0525f8.css",
-    "main.js": "/TinyChat/tiny-chat/static/js/main.4e93cb7f.js",
-    "index.html": "/TinyChat/tiny-chat/index.html",
-    "main.aa0525f8.css.map": "/TinyChat/tiny-chat/static/css/main.aa0525f8.css.map",
-    "main.4e93cb7f.js.map": "/TinyChat/tiny-chat/static/js/main.4e93cb7f.js.map"
+    "main.css": "/TinyChat/static/css/main.aa0525f8.css",
+    "main.js": "/TinyChat/static/js/main.f53dd48c.js",
+    "index.html": "/TinyChat/index.html",
+    "main.aa0525f8.css.map": "/TinyChat/static/css/main.aa0525f8.css.map",
+    "main.f53dd48c.js.map": "/TinyChat/static/js/main.f53dd48c.js.map"
   },
   "entrypoints": [
     "static/css/main.aa0525f8.css",
-    "static/js/main.4e93cb7f.js"
+    "static/js/main.f53dd48c.js"
   ]
 }
