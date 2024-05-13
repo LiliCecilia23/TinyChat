@@ -23,3 +23,11 @@ const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
 export const auth = getAuth(app);
 export const db = getFirestore(app);
+export const firebaseApp = initializeApp({
+  // your application settings
+})
+// used for the firestore refs
+const db = getFirestore(firebaseApp)
+
+// here we can export reusable database references
+export const todosRef = collection(db, 'todos')
